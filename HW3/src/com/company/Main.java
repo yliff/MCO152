@@ -49,7 +49,4 @@ public class Main {
         System.out.println("Good job!");
     }
 
-    int foo(){
-        return 1;
-    }
 }
